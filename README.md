@@ -19,4 +19,4 @@ Description :
 Upon successful user login, the server generates a Session ID and a CSRF Token for the session. Session ID is set as a browser cookie. When user submits the form, The server validates whether CSRF Token matches.
 
 
-Blog: https://medium.com/@ttcphilips/securing-your-php-web-application-using-synchronizer-token-pattern-6f66104fbe3f
+Blog: https://securedprogramming.blogspot.com/2019/05/today-i-am-going-to-explain.html
